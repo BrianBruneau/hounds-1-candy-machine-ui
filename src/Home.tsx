@@ -31,7 +31,7 @@ import {
 
 
 
-import nft_image from "./img/nft_image.gif"
+import nft_image from "./img/hound.gif"
 
 
 import Info from "./components/Info";
