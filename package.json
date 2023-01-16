@@ -8,6 +8,7 @@
     "@civic/solana-gateway-react": "^0.4.12",
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
+    "@ledgerhq/devices": "^7.0.7",
     "@mui/material": "^5.6.4",
     "@project-serum/anchor": "^0.14.0",
     "@solana/spl-token": "^0.1.8",
